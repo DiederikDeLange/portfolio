@@ -8,7 +8,7 @@ author:
   email: "youremail@example.com"
   twitter_username: "yourtwitter"
   github_username: "yourusername"
-
+   profile_picture: "/assets/img/profile.jpg""
 # Build settings
 theme: jekyll-theme-minimal
 
