@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Project One: Sales Dashboard"
+date: 2024-01-01
+---
+
+# Project One: Sales Dashboard
+
+In this project, I created a sales dashboard to track and analyze sales performance.
+
+![Sales Dashboard](assets/img/project-one.png)
+
+## Key Features
+
+- Interactive visuals
+- Advanced DAX calculations
+- Integration with multiple data sources
