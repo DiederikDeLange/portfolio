@@ -1,10 +1,10 @@
 # Power BI Portfolio
 
-Welcome to my Power BI portfolio! This site showcases my Power BI projects and data analysis skills.
+Welcome to my Power BI portfolio! This site presents my Power BI projects or other skills in data analysis.
 
 ## About
 
-This portfolio contains a collection of my work as a Power BI analyst, including interactive reports, dashboards, and data visualizations. Each project is documented with detailed explanations and screenshots.
+During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
 
 ## Featured Projects
 
