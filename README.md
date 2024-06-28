@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 <img src="{{ site.url }}{{ site.baseurl }}{{ site.author.profile_picture }}" alt="Profile Picture" style="width:150px;height:150px;border-radius:50%;display:block;margin:0 auto;">
 
 # Power BI Portfolio
