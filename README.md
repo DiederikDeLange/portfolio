@@ -1,20 +1,13 @@
 
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Diederik De Lange
+Visit my Linked-In page and let's get connected!
+<a href="https://www.linkedin.com/in/diederik-de-lange/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Projects
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
+| Projectname                                    |  Description | Hyperlink         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
