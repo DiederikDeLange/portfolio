@@ -1,11 +1,7 @@
 
 # Hello, I'm Diederik De Lange
-Visit my Linked-In page and let's get connected!
 
-<a href="https://www.linkedin.com/in/diederik-de-lange/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+## Intro
 
 During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
 
@@ -15,14 +11,18 @@ During my early experiences as a Business Analyst and Project Support Officer, I
 
 | Project Name                                    | Description                                        | **Proven skills**                               |
 |-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
-| [Xaomi](Xaomi.md)                               | Weekly sales and stock data Power BI dashboard based on store data Excel exports | - Excel raw file conversion <br> - Data analysis <br> - Report generation |
+| [Xaomi](Xaomi.md)                               | Weekly sales and stock data Power BI dashboard based on store data Excel exports | - Advanced Excel data processing <br> - Design and implementation of Power BI dashboard for shop, product and sales representative performance monitoring <br> - Direct communication with customer to discuss new developments and gather feedback |
 | Network Traffic Monitoring and Attack Detection | Detection Lab                                      | [Detection Lab](https://google.com)              |
 | Security Automation with Shuffle SOAR           | SOC Automation Lab                                 |                                                 |
 | Incident Response Planning and Execution        | SOC Automation Lab                                 |                                                 |
 | Case Management with TheHive                    | SOC Automation Lab                                 |                                                 |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                                 |
 
+Visit my Linked-In page and let's get connected!
 
+<a href="https://www.linkedin.com/in/diederik-de-lange/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
