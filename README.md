@@ -2,8 +2,8 @@
 <!-- Container for the heading and image -->
 <div style="display: flex; align-items: center;">
 
-  <!-- Image -->
-  <img src="/assets/1681204295450.jfif" alt="Example Image" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;">
+  <!-- Image (bigger size) -->
+  <img src="/assets/1681204295450.jfif" alt="Example Image" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 20px;">
 
   <!-- Heading and Introduction -->
   <div>
@@ -13,11 +13,12 @@
     ## Intro
     
     During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
-    <br>
+    
     On this page, you will find out more about some of the fine projects I have had the pleasure of working on.
     
   </div>
 </div>
+
 
 
 ## Project list
