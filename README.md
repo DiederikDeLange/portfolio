@@ -7,7 +7,8 @@
 
   <!-- Heading and Introduction -->
   <div>
-  
+   </div>
+</div>
     # Hello, I'm Diederik De Lange
     
     ## Intro
@@ -16,8 +17,7 @@
     
     On this page, you will find out more about some of the fine projects I have had the pleasure of working on.
     
-  </div>
-</div>
+
 
 
 
