@@ -18,9 +18,6 @@
 On this page, you will find out more about some of the fine projects I have had the pleasure of working on.
     
 
-
-
-
 ## Project list
 
 
