@@ -12,7 +12,7 @@ During my early experiences as a Business Analyst and Project Support Officer, I
 | Project Name                                    | Description                                        | **Proven skills**                               |
 |-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
 | [Xaomi](Xaomi.md)                               | Weekly sales and stock data Power BI dashboard based on store data Excel exports | - Advanced Excel data processing <br> - Design and implementation of Power BI dashboard for shop, product and sales representative performance monitoring <br> - Direct communication with customer to discuss new developments and gather feedback |
-| Network Traffic Monitoring and Attack Detection | Detection Lab                                      | [Detection Lab](https://google.com)              |
+| [No Fairytales](No_Fairytales.md)               | Detection Lab                                      | [Detection Lab](https://google.com)              |
 | Security Automation with Shuffle SOAR           | SOC Automation Lab                                 |                                                 |
 | Incident Response Planning and Execution        | SOC Automation Lab                                 |                                                 |
 | Case Management with TheHive                    | SOC Automation Lab                                 |                                                 |
