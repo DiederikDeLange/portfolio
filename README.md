@@ -5,9 +5,11 @@
 
 During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
 
-## Projects
+On this page, you will find out more about some of the fine projects I have had the pleasure of working on. 
 
-# Project List
+
+## Project list
+
 
 | Project Name                                    | Description                                        | **Proven skills**                               |
 |-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
@@ -18,7 +20,7 @@ During my early experiences as a Business Analyst and Project Support Officer, I
 | Sporza "Wielermanager" Analysis                 | SOC Automation Lab                                 |                                                 |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                                 |
 
-Visit my Linked-In page and let's get connected!
+If you would like to know more about there or other projects, do not hesitate to contact me at diederikdel@gmail.com or send a DM via my linked-in page.
 
 <a href="https://www.linkedin.com/in/diederik-de-lange/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
