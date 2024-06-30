@@ -20,11 +20,11 @@ On this page, you will find out more about some of the fine projects I have had 
 | Sporza "Wielermanager" Analysis                 | SOC Automation Lab                                 |                                                 |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                                 |
 
-If you would like to know more about there or other projects, do not hesitate to contact me at diederikdel@gmail.com or send a DM via my linked-in page.
+If you would like to know more about there or other projects, do not hesitate to contact me at diederikdel@gmail.com or send a DM via my linked-in page by clicking on one of the action buttons below.
+
 <a href="mailto:diederikdel@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://www.linkedin.com/in/diederik-de-lange/">
+ href="https://www.linkedin.com/in/diederik-de-lange/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
