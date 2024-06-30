@@ -9,15 +9,15 @@ During my early experiences as a Business Analyst and Project Support Officer, I
 
 # Project List
 
-| Project Name                                    | Description                                        | ** Proven skills **                         |
-|-------------------------------------------------|----------------------------------------------------|---------------------------------------------|
-| [Xaomi](Xaomi.md)                               | Detection Lab                                      |     *Excel raw file conversion              |
-|                                                 |                                                    |     *other                                  |
-| Network Traffic Monitoring and Attack Detection | Detection Lab                                      | [Detection Lab](https://google.com)         |
-| Security Automation with Shuffle SOAR           | SOC Automation Lab                                 |                                             |
-| Incident Response Planning and Execution        | SOC Automation Lab                                 |                                             |
-| Case Management with TheHive                    | SOC Automation Lab                                 |                                             |
-| Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                             |
+| Project Name                                    | Description                                        | **Proven skills**                               |
+|-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
+| [Xaomi](Xaomi.md)                               | Weekly sales and stock data Power BI dashboard based on store data Excel exports | - Excel raw file conversion <br> - Data analysis <br> - Report generation |
+| Network Traffic Monitoring and Attack Detection | Detection Lab                                      | [Detection Lab](https://google.com)              |
+| Security Automation with Shuffle SOAR           | SOC Automation Lab                                 |                                                 |
+| Incident Response Planning and Execution        | SOC Automation Lab                                 |                                                 |
+| Case Management with TheHive                    | SOC Automation Lab                                 |                                                 |
+| Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                                 |
+
 
 
 ## Tools
