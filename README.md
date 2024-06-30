@@ -1,6 +1,7 @@
 
 # Hello, I'm Diederik De Lange
-[Example Image](portfolio/assets/example.png/Schermafbeelding 2024-03-06 133446.png
+![Example Image](/portfolio/assets/example.png/Schermafbeelding%202024-03-06%20133446.png)
+
 
 ## Intro
 
