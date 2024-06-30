@@ -22,11 +22,15 @@ On this page, you will find out more about some of the fine projects I have had 
 
 If you would like to know more about there or other projects, do not hesitate to contact me at diederikdel@gmail.com or send a DM via my linked-in page by clicking on one of the action buttons below.
 
-<a href="mailto:diederikdel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
- href="https://www.linkedin.com/in/diederik-de-lange/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:diederikdel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/diederik-de-lange/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
