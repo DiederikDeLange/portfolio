@@ -1,8 +1,9 @@
 
 # Hello, I'm Diederik De Lange
-![Example Image](/assets/Schermafbeelding%202024-03-06%20133446.png)
-
-
+![Example Image](/assets/test.png)
+![Example Image](/portfolio/assets/test.png)
+![Example Image](/portfolio/test.png)
+[Example Image](/portfolio/test.png)
 ## Intro
 
 During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
