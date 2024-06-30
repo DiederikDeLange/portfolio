@@ -1,6 +1,6 @@
 
 # Hello, I'm Diederik De Lange
-![Example Image](/assets/example.png/1681204295450.jfif)
+![Example Image](portfolio/assets/example.png/1681204295450.jfif)
 
 ## Intro
 
