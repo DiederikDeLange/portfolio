@@ -12,8 +12,8 @@ During my early experiences as a Business Analyst and Project Support Officer, I
 | Project Name                                    | Description                                        | Proven skills                               |
 |-------------------------------------------------|----------------------------------------------------|---------------------------------------------|
 | [Xaomi](Xaomi.md)                               | Detection Lab                                      | + Excel raw file conversion
-                                                                                                         + 
-
+|                                                 |                                                    |  + 
+|                                                 |                                                    |
 | Network Traffic Monitoring and Attack Detection | Detection Lab                                      | [Detection Lab](https://google.com)         |
 | Security Automation with Shuffle SOAR           | SOC Automation Lab                                 |                                             |
 | Incident Response Planning and Execution        | SOC Automation Lab                                 |                                             |
