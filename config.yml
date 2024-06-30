@@ -9,10 +9,12 @@ author:
   twitter_username: "yourtwitter"
   github_username: "yourusername"
 profile_picture: "/assets/img/1681204295450.jfif"
+
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman  # Replace with the theme you want to use
 
 # Optional settings for GitHub Pages
 plugins:
   - jekyll-feed
+
 
