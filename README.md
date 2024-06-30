@@ -1,6 +1,8 @@
 
 # Hello, I'm Diederik De Lange
-![Example Image](/assets/1681204295450.jfif)
+<!-- HTML and CSS to resize image and make it circular -->
+<img src="/assets/1681204295450.jfif" alt="Example Image" style="width: 100px; height: 100px; border-radius: 50%;">
+
 
 ## Intro
 
