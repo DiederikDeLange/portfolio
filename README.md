@@ -11,11 +11,11 @@ During my early experiences as a Business Analyst and Project Support Officer, I
 
 | Project Name                                    | Description                                        | **Proven skills**                               |
 |-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
-| [Xaomi](Xaomi.md)                               | Weekly sales and stock data Power BI dashboard based on store data Excel exports | - Advanced Excel data processing <br> - Design and implementation of Power BI dashboard for shop, product and sales representative performance monitoring <br> - Direct communication with customer to discuss new developments and gather feedback |
-| [No Fairytales](No_Fairytales.md)               | Detection Lab                                      | [Detection Lab](https://google.com)              |
-| Security Automation with Shuffle SOAR           | SOC Automation Lab                                 |                                                 |
-| Incident Response Planning and Execution        | SOC Automation Lab                                 |                                                 |
-| Case Management with TheHive                    | SOC Automation Lab                                 |                                                 |
+| [Xaomi](Xaomi.md)                               | Visualize weekly sales and stock data based on store data Excel exports | - Advanced Excel data processing <br> - Design and implementation of Power BI dashboard for shop, product and sales representative performance monitoring <br> - Direct communication with customer to discuss new developments and gather feedback |
+| [No Fairytales](No_Fairytales.md)               | Provide insight to an A-brand in which supermarkets, whether their products are offered as agreed and monitoring introtoduction of new products.                                       | - Maintain tables in CRM system <br> - Creating/ discuss cutsom made questionnaire with customers <br>  - Monitoring and discussing data quality with field staff <br>            |
+| Employee performance dashboard                  | Bringing together various data sources related to store visits to create a dashboard that enables a project manager to track where, when, and for how long a merchandiser has been working.                                 |                                                 |
+| COR tool implementation                         | Gain live insight into 4000+ measurement state proposals sent via PDF and implement this data into an approval proces                                  |                                                 |
+| Sporza "Wielermanager" Analysis                 | SOC Automation Lab                                 |                                                 |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                                 |
 
 Visit my Linked-In page and let's get connected!
