@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
 
   <!-- Image (bigger size) -->
-  <img src="/assets/1681204295450.jfif" alt="Example Image" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 20px;">
+  <img src="/assets/test.png" alt="Example Image" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 20px;">
 
   <!-- Heading and Introduction -->
   <div>
