@@ -1,4 +1,3 @@
-
 <!-- Container for the heading and image -->
 <div style="display: flex; align-items: center;">
 
@@ -7,8 +6,16 @@
 
   <!-- Heading and Introduction -->
   <div>
-   </div>
+    <h1>Hello, I'm Diederik De Lange</h1>
+    
+    <h2>Intro</h2>
+    
+    <p>During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.</p>
+    
+    <p>On this page, you will find out more about some of the fine projects I have had the pleasure of working on.</p>
+  </div>
 </div>
+
 
 # Hello, I'm Diederik De Lange
     
