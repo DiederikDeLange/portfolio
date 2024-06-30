@@ -1,6 +1,6 @@
 
 # Hello, I'm Diederik De Lange
-<!-- HTML and CSS to resize image and make it circular -->
+<!-- HTML code to display image in a circle -->
 <img src="/assets/1681204295450.jfif" alt="Example Image" style="width: 100px; height: 100px; border-radius: 50%;">
 
 
