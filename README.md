@@ -1,8 +1,4 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
-
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
-
-# Hello, I'm Diederik De Lange
+# [Hello, I'm Diederik De Lange]
 
 <img src="/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
 <img src="./test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
