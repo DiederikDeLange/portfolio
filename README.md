@@ -1,8 +1,8 @@
 # Hello, I'm Diederik De Lange
 
 <img src="/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
-<img src="./assets/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
-<img src="/porfolio/assets/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
+<img src="./test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
+<img src="/porfolio/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
 <img src="https://raw.githubusercontent.com/DiederikDeLange/portfolio/master/assets/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
 
 ## Intro
