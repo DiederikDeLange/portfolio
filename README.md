@@ -1,4 +1,4 @@
-# [Hello, I'm Diederik De Lange]
+Hello, I'm Diederik De Lange
 
 <img src="/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
 <img src="./test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
