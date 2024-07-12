@@ -35,10 +35,7 @@
 </head>
 <body>
     <h1>My Power BI Report</h1>
-    <iframe
-        src="https://app.powerbi.com/reportEmbed?reportId=db6d4b82-a12c-483b-b732-8b1bb362ee63&autoAuth=true&ctid=aaee71f7-315f-4714-bad5-8951c8414782"
-        allowFullScreen="true"
-    ></iframe>
+   <iframe title="PhoneBrandPBIv5.0" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTFlY2M0MmEtNjU3MS00YzVlLWI0YzAtOGNmYjhhZDMyYzI5IiwidCI6ImZkMjg1NWUyLWZmMWEtNDliMS04NjU3LTY3YjcxODM1MWU4MCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
     <div class="content">
         <p>Welcome to the new page.</p>
         <p>This is the content of the new page.</p>
