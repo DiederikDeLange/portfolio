@@ -14,7 +14,8 @@ Dutch · French · English
 
 ## What I work on
 
-**Connect-ERP @ Connect-Plus**
+### Connect-ERP @ Connect-Plus
+
 Connect-Plus is a Belgian purchasing cooperative for ~400 electronics retail stores. I support Connect-ERP, the Odoo-based ERP platform the members run on.
 
 - Functional and technical support for member shops, in Dutch and French
@@ -23,7 +24,8 @@ Connect-Plus is a Belgian purchasing cooperative for ~400 electronics retail sto
 - Coordinating developers and Odoo on the Odoo 19 upgrade and member rollout
 - Release notes and bilingual member mailings
 
-**Poste Passé** — [postepasse.be](https://postepasse.be)
+### Poste Passé — [postepasse.be](https://postepasse.be)
+
 My own webshop for vintage Belgian postcards, built and run on Odoo SaaS. Around 1,700 cards from 120+ municipalities, each placed on an interactive map so people can find cards of places they know.
 
 - Custom Odoo module with a Leaflet.js map: clustering, category filters, deep links, fullscreen, grid/map toggle
