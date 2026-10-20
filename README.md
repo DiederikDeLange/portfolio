@@ -1,75 +1,47 @@
-Hello, I'm Diederik De Lange
+# Diederik De Lange
 
-<img src="/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
-<img src="./test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
-<img src="/porfolio/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
-<img src="https://raw.githubusercontent.com/DiederikDeLange/portfolio/master/assets/test.jpg" alt="Alt Text" style="width: 300px; height: 200px;">
-<iframe title="PhoneBrandPBIv5.0" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=db6d4b82-a12c-483b-b732-8b1bb362ee63&autoAuth=true&ctid=aaee71f7-315f-4714-bad5-8951c8414782" frameborder="0" allowFullScreen="true"></iframe>
+<img src="assets/profile.jpg" alt="Diederik De Lange" width="140" align="right">
 
-## Intro
-    
-During my early experiences as a Business Analyst and Project Support Officer, I learnt to work with various applications, including MS Excel, Power BI, Power Query, CRM Teamhaven and, to a limited extent, SQL. In addition, I have always had an affinity with the retail sector, both during my education and work experiences. This track has introduced me to different sectors such as FMCG, consumer electronics, distribution and IT. Moreover, I have a strong interest in the financial sector, events sector and sports sector.
-    
-On this page, you will find out more about some of the fine projects I have had the pleasure of working on.
-    
+Odoo functional/technical consultant based in Belgium. I connect business users with developers: I analyse what a shop or team actually needs, translate it into something a developer can build, and follow it through until it works in production.
 
-## Project list
+Dutch · French · English
 
+[![Email](https://img.shields.io/badge/Email-diederikdel%40gmail.com-blue?style=flat&logo=gmail)](mailto:diederikdel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diederik--de--lange-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/diederik-de-lange/)
+[![Poste Passé](https://img.shields.io/badge/Shop-postepasse.be-8B4513?style=flat)](https://postepasse.be)
 
-| Project Name                                    | Description                                        | Proven skills  // Lessons learned                             |
-|-------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
-| [Phone brand](PhoneBrand.md)                               | Visualize weekly sales and stock data based on store data Excel exports | ✔️ Advanced Excel data processing <br> ✔️ Design and implementation of Power BI dashboard for shop, product and sales representative performance monitoring <br> ✔️ Direct communication with customer to discuss new developments and gather feedback  <br> :bulb:|
-| [No Fairytales](No_Fairytales.md)               | Provide insight to an A-brand in which supermarkets, whether their products are offered as agreed and monitoring introtoduction of new products.                                       | - Maintain tables in CRM system <br> - Creating/ discuss cutsom made questionnaire with customers <br>  - Monitoring and discussing data quality with field staff <br>            |
-| Employee performance dashboard                  | Bringing together various data sources related to store visits to create a dashboard that enables a project manager to track where, when, and for how long a merchandiser has been working.                                 |                                                 |
-| COR tool implementation                         | Gain live insight into 4000+ measurement state proposals sent via PDF and implement this data into an approval proces                                  |                                                 |
-| Sporza "Wielermanager" Analysis                 | SOC Automation Lab                                 |                                                 |
-| Scripting and Automation for Threat Mitigation  | SOC Automation Lab                                 |                                                 |
+---
 
-If you would like to know more about there or other projects, do not hesitate to contact me at diederikdel@gmail.com or send a DM via my linked-in page by clicking on one of the action buttons below.
+## What I work on
 
-<p>
-  <a href="mailto:diederikdel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/diederik-de-lange/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Connect-ERP @ Connect-Plus**
+Connect-Plus is a Belgian purchasing cooperative for ~400 electronics retail stores. I support Connect-ERP, the Odoo-based ERP platform the members run on.
 
+- Functional and technical support for member shops, in Dutch and French
+- EDI integration analysis (AS400, Butler++, BizTalk, SFTP)
+- PEPPOL / UBL e-invoicing in the Belgian context
+- Coordinating developers and Odoo on the Odoo 19 upgrade and member rollout
+- Release notes and bilingual member mailings
+
+**Poste Passé** — [postepasse.be](https://postepasse.be)
+My own webshop for vintage Belgian postcards, built and run on Odoo SaaS. Around 1,700 cards from 120+ municipalities, each placed on an interactive map so people can find cards of places they know.
+
+- Custom Odoo module with a Leaflet.js map: clustering, category filters, deep links, fullscreen, grid/map toggle
+- Multilingual search across all 581 Belgian municipalities
+- Postcard scanner using the Claude Vision API to extract structured data from scans
+- Geocoding pipeline (Nominatim / Google) for card locations
+- Delcampe and eBay bulk import converters (Python, CSV)
+- Google Merchant Center feed for Pinterest Catalogs, QWeb cart customisations, SEO fixes
+
+## Earlier work
+
+**Business Analyst / Project Support Officer** — retail, FMCG, consumer electronics and distribution projects.
+
+- **Sales & stock dashboard for a smartphone brand** — turned weekly store Excel exports into a Power BI dashboard for shop, product and sales-rep performance; iterated directly with the client.
+- **Retail execution monitoring for an A-brand** — CRM tables and custom questionnaires to check whether supermarkets stocked products as agreed and to track new product introductions; data-quality follow-up with field staff.
+- **Field staff performance dashboard** — combined store-visit data sources so a project manager could see where, when and how long merchandisers worked.
+- **COR tool implementation** — live insight into 4,000+ measurement-state proposals received as PDFs, feeding an approval process.
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+Odoo (functional, Studio, QWeb, custom modules) · Python · EDI / PEPPOL / UBL · Power BI · Power Query · Excel · SQL (basics) · Jira
